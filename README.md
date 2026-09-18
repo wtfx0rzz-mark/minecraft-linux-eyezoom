@@ -22,3 +22,5 @@ VirusTotal Scans:
 https://www.virustotal.com/gui/file/3deee9a50bc3fe20883fa635d1b1d764d69e67e3a33aada6e796152977c0f8be?nocache=1
 
 https://www.virustotal.com/gui/file/579ab3c094731f675df79c56d8123c576d4fd43e260ebe22481ce5df43d48c1f?nocache=1
+
+https://www.virustotal.com/gui/file/7b7d7fd59fccd8f0fb951f737650d59a87ec93c88c576ddc2c9a59d16f688b2d?nocache=1
